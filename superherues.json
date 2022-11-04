@@ -39,21 +39,17 @@
     },
     {
       "name" : "hombre araña",
-      "age" : 1000000,
+      "age" : 20000,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Fuerza",
+        "sentidos",
+        "velocidad",
+        "durabilidad",
+        "Ireflejos"
 
     ]
     },
     {
-    "type": "default",
-      "project": "superheroes.html",
-      "name": "superheroes.html"
-    }
     ]
 }
